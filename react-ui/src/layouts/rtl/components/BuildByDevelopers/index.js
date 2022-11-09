@@ -93,4 +93,6 @@ function BuildByDevelopers() {
   );
 }
 
+BuildByDevelopers.displayName = "BuildByDevelopers";
+
 export default BuildByDevelopers;

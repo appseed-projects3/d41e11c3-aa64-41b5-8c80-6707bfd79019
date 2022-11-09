@@ -81,4 +81,6 @@ function OrdersOverview() {
   );
 }
 
+OrdersOverview.displayName = "OrdersOverview";
+
 export default OrdersOverview;

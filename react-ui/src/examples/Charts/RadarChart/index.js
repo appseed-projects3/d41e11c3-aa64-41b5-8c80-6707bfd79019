@@ -88,4 +88,6 @@ RadarChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.array).isRequired,
 };
 
+RadarChart.displayName = "RadarChart";
+
 export default RadarChart;

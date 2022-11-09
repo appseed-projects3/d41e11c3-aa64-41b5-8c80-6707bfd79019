@@ -48,4 +48,6 @@ LayoutContainer.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
+LayoutContainer.displayName = "LayoutContainer";
+
 export default LayoutContainer;

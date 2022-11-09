@@ -131,4 +131,6 @@ ProfileInfoCard.propTypes = {
   }).isRequired,
 };
 
+ProfileInfoCard.displayName = "ProfileInfoCard";
+
 export default ProfileInfoCard;

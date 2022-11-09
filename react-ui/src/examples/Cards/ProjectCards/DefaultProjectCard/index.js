@@ -152,4 +152,6 @@ DefaultProjectCard.propTypes = {
   authors: PropTypes.arrayOf(PropTypes.object),
 };
 
+DefaultProjectCard.displayName = "DefaultProjectCard";
+
 export default DefaultProjectCard;

@@ -146,4 +146,6 @@ DefaultPricingCard.propTypes = {
   }).isRequired,
 };
 
+DefaultPricingCard.displayName = "DefaultPricingCard";
+
 export default DefaultPricingCard;

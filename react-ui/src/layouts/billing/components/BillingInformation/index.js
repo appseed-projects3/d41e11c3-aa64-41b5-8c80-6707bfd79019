@@ -58,4 +58,6 @@ function BillingInformation() {
   );
 }
 
+BillingInformation.displayName = "BillingInformation";
+
 export default BillingInformation;

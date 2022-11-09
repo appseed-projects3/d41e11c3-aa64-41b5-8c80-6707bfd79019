@@ -83,4 +83,6 @@ Settings.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+Settings.displayName = "Settings";
+
 export default Settings;

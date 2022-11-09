@@ -92,4 +92,6 @@ VerticalBarChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.array).isRequired,
 };
 
+VerticalBarChart.displayName = "VerticalBarChart";
+
 export default VerticalBarChart;

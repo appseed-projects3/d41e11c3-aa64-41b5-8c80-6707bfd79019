@@ -109,4 +109,6 @@ TimelineItem.propTypes = {
   lastItem: PropTypes.bool,
 };
 
+TimelineItem.displayName = "TimelineItem";
+
 export default TimelineItem;

@@ -117,4 +117,6 @@ CoverLayout.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
+CoverLayout.displayName = "CoverLayout";
+
 export default CoverLayout;

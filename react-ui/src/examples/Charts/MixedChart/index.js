@@ -155,4 +155,6 @@ MixedChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.array).isRequired,
 };
 
+MixedChart.displayName = "MixedChart";
+
 export default MixedChart;

@@ -140,4 +140,6 @@ DefaultBlogCard.propTypes = {
   }).isRequired,
 };
 
+DefaultBlogCard.displayName = "DefaultBlogCard";
+
 export default DefaultBlogCard;

@@ -153,4 +153,6 @@ MiniStatisticsCard.propTypes = {
   direction: PropTypes.oneOf(["right", "left"]),
 };
 
+MiniStatisticsCard.displayName = "MiniStatisticsCard";
+
 export default MiniStatisticsCard;

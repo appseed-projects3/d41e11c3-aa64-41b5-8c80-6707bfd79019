@@ -78,4 +78,6 @@ Basket.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+Basket.displayName = "Basket";
+
 export default Basket;

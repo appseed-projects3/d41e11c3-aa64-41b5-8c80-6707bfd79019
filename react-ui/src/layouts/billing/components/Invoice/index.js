@@ -76,4 +76,6 @@ Invoice.propTypes = {
   noGutter: PropTypes.bool,
 };
 
+Invoice.displayName = "Invoice";
+
 export default Invoice;

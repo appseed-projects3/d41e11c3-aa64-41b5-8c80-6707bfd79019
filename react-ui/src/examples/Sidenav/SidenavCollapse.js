@@ -87,4 +87,6 @@ SidenavCollapse.propTypes = {
   open: PropTypes.bool,
 };
 
+SidenavCollapse.displayName = "SidenavCollapse";
+
 export default SidenavCollapse;

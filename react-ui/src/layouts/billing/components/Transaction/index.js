@@ -69,4 +69,6 @@ Transaction.propTypes = {
   value: PropTypes.string.isRequired,
 };
 
+Transaction.displayName = "Transaction";
+
 export default Transaction;

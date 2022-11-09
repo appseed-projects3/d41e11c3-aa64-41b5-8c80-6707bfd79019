@@ -101,4 +101,6 @@ Bill.propTypes = {
   noGutter: PropTypes.bool,
 };
 
+Bill.displayName = "Bill";
+
 export default Bill;

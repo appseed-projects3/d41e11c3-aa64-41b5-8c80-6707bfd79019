@@ -92,4 +92,6 @@ BubbleChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.array).isRequired,
 };
 
+BubbleChart.displayName = "BubbleChart";
+
 export default BubbleChart;

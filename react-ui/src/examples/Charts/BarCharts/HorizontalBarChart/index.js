@@ -92,4 +92,6 @@ HorizontalBarChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.array).isRequired,
 };
 
+HorizontalBarChart.displayName = "HorizontalBarChart";
+
 export default HorizontalBarChart;

@@ -79,4 +79,6 @@ DefaultDoughnutChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.oneOfType([PropTypes.array, PropTypes.object])).isRequired,
 };
 
+DefaultDoughnutChart.displayName = "DefaultDoughnutChart";
+
 export default DefaultDoughnutChart;

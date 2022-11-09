@@ -92,4 +92,6 @@ DefaultLineChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.array).isRequired,
 };
 
+DefaultLineChart.displayName = "DefaultLineChart";
+
 export default DefaultLineChart;

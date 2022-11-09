@@ -97,4 +97,6 @@ function PaymentMethod() {
   );
 }
 
+PaymentMethod.displayName = "PaymentMethod";
+
 export default PaymentMethod;

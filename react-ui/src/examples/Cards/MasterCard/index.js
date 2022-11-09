@@ -107,4 +107,6 @@ MasterCard.propTypes = {
   expires: PropTypes.string.isRequired,
 };
 
+MasterCard.displayName = "MasterCard";
+
 export default MasterCard;

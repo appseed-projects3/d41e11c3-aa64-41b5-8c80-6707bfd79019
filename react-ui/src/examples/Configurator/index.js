@@ -234,4 +234,6 @@ function Configurator() {
 
 Configurator.displayName = "Configurator";
 
+Configurator.displayName = "Configurator";
+
 export default Configurator;

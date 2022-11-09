@@ -69,4 +69,6 @@ function SidenavCard() {
   );
 }
 
+SidenavCard.displayName = "SidenavCard";
+
 export default SidenavCard;

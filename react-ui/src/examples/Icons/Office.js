@@ -75,4 +75,6 @@ Office.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+Office.displayName = "Office";
+
 export default Office;

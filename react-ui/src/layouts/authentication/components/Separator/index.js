@@ -40,4 +40,6 @@ function Separator() {
   );
 }
 
+Separator.displayName = "Separator";
+
 export default Separator;

@@ -84,4 +84,6 @@ SpaceShip.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+SpaceShip.displayName = "SpaceShip";
+
 export default SpaceShip;

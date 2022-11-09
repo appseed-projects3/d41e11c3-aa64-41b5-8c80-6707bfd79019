@@ -76,4 +76,6 @@ OutlinedCounterCard.propTypes = {
   suffix: PropTypes.oneOfType([PropTypes.string, PropTypes.node]),
 };
 
+OutlinedCounterCard.displayName = "OutlinedCounterCard";
+
 export default OutlinedCounterCard;

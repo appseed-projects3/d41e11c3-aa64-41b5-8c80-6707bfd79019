@@ -75,4 +75,6 @@ CreditCard.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+CreditCard.displayName = "CreditCard";
+
 export default CreditCard;

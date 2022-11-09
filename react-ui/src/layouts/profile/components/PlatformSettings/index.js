@@ -122,4 +122,6 @@ function PlatformSettings() {
   );
 }
 
+PlatformSettings.displayName = "PlatformSettings";
+
 export default PlatformSettings;

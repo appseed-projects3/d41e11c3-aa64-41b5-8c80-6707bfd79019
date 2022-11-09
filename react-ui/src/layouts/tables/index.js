@@ -66,4 +66,6 @@ function Tables() {
   );
 }
 
+Tables.displayName = "Tables";
+
 export default Tables;

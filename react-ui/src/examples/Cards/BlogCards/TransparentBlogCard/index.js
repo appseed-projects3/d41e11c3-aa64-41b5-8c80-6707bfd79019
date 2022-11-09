@@ -129,4 +129,6 @@ TransparentBlogCard.propTypes = {
   }).isRequired,
 };
 
+TransparentBlogCard.displayName = "TransparentBlogCard";
+
 export default TransparentBlogCard;

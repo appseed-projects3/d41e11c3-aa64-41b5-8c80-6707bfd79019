@@ -61,4 +61,6 @@ DefaultNavbarLink.propTypes = {
   light: PropTypes.bool.isRequired,
 };
 
+DefaultNavbarLink.displayName = "DefaultNavbarLink";
+
 export default DefaultNavbarLink;

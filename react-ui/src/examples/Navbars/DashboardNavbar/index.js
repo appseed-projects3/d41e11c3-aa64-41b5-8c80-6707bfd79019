@@ -199,4 +199,6 @@ DashboardNavbar.propTypes = {
   isMini: PropTypes.bool,
 };
 
+DashboardNavbar.displayName = "DashboardNavbar";
+
 export default DashboardNavbar;

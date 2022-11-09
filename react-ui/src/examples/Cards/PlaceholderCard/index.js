@@ -79,4 +79,6 @@ PlaceholderCard.propTypes = {
   outlined: PropTypes.bool,
 };
 
+PlaceholderCard.displayName = "PlaceholderCard";
+
 export default PlaceholderCard;

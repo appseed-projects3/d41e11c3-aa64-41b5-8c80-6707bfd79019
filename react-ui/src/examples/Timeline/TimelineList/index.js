@@ -55,4 +55,6 @@ TimelineList.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
+TimelineList.displayName = "TimelineList";
+
 export default TimelineList;

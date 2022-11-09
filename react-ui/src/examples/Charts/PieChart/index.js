@@ -79,4 +79,6 @@ PieChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.oneOfType([PropTypes.array, PropTypes.object])).isRequired,
 };
 
+PieChart.displayName = "PieChart";
+
 export default PieChart;

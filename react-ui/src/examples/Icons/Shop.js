@@ -78,4 +78,6 @@ Shop.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+Shop.displayName = "Shop";
+
 export default Shop;

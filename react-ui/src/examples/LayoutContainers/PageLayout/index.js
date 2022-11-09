@@ -59,4 +59,6 @@ PageLayout.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
+PageLayout.displayName = "PageLayout";
+
 export default PageLayout;

@@ -78,4 +78,6 @@ Document.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+Document.displayName = "Document";
+
 export default Document;

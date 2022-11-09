@@ -104,4 +104,6 @@ ReportsBarChart.propTypes = {
   items: PropTypes.arrayOf(PropTypes.object),
 };
 
+ReportsBarChart.displayName = "ReportsBarChart";
+
 export default ReportsBarChart;

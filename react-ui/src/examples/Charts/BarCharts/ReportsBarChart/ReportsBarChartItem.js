@@ -90,4 +90,6 @@ ReportsBarChartItem.propTypes = {
   }).isRequired,
 };
 
+ReportsBarChart.displayName = "ReportsBarChart";
+
 export default ReportsBarChartItem;

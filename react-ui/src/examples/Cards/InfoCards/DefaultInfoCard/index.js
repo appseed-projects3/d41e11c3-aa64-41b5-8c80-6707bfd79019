@@ -80,4 +80,6 @@ DefaultInfoCard.propTypes = {
   value: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
 };
 
+DefaultInfoCard.displayName = "DefaultInfoCard";
+
 export default DefaultInfoCard;

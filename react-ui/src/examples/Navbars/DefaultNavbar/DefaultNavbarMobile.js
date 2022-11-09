@@ -61,4 +61,6 @@ DefaultNavbarMobile.propTypes = {
   close: PropTypes.oneOfType([PropTypes.func, PropTypes.bool, PropTypes.object]).isRequired,
 };
 
+DefaultNavbarMobile.displayName = "DefaultNavbarMobile";
+
 export default DefaultNavbarMobile;

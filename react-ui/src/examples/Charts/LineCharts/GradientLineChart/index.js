@@ -102,4 +102,6 @@ GradientLineChart.propTypes = {
   chart: PropTypes.objectOf(PropTypes.array).isRequired,
 };
 
+GradientLineChart.displayName = "GradientLineChart";
+
 export default GradientLineChart;

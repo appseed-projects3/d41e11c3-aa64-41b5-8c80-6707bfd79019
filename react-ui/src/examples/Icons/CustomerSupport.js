@@ -83,4 +83,6 @@ CustomerSupport.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+CustomerSupport.displayName = "CustomerSupport";
+
 export default CustomerSupport;

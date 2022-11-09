@@ -59,4 +59,6 @@ function WorkWithTheRockets() {
   );
 }
 
+WorkWithTheRockets.displayName = "WorkWithTheRockets";
+
 export default WorkWithTheRockets;

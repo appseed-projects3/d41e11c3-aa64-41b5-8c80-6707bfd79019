@@ -93,4 +93,6 @@ BasicLayout.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
+BasicLayout.displayName = "BasicLayout";
+
 export default BasicLayout;

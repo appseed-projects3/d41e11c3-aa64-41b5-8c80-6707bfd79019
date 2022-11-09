@@ -82,4 +82,6 @@ Cube.propTypes = {
   size: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
 };
 
+Cube.displayName = "Cube";
+
 export default Cube;
